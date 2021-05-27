@@ -1,4 +1,3 @@
-package com.mongodb.quickstart;
 
 import com.github.javafaker.Faker;
 import java.util.Random;
